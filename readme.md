@@ -134,7 +134,7 @@
 
 ## Contents
 
-- [Platforms](#platforms)
+- [Platformse](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
